@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [JongKyun Seon](github.com/SeonJK)
 - [Myint Cho Cho Kyaw](github.com/myintchochokyaw)
 - [Ye Pyae Aung](github.com/YePyaeAung)
 - [Yasharjs](https://github.com/yasharjs)
